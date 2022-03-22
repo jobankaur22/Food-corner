@@ -1,5 +1,5 @@
 # Food-cornor
-Project
+Food Cornor website 
 Website Design for Food Related Websites.
 What is this repository for?
 This is a simple Website Design project which can be used for Food related websites like Restaurents , Food Corners etc.
