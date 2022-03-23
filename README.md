@@ -1,4 +1,4 @@
-# Food-cornor
+# Food-corner
 Project
 Website Design for Food Related Websites.
 What is this repository for?
